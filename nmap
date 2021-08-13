@@ -1,0 +1,1 @@
+nmap -p- -sS --min-rate 5000 --open -vvv -n
